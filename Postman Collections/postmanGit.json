@@ -1256,8 +1256,6 @@
 							"script": {
 								"id": "20392f0c-dc3d-4ca5-a351-751a0e69ebe6",
 								"exec": [
-									"const response = JSON.parse(responseBody);\r",
-									"\r",
 									"//Check Status\r",
 									"pm.test(\"Status code is 404\", function () {\r",
 									"    pm.response.to.have.status(404);\r",
