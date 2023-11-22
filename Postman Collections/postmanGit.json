@@ -1238,7 +1238,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"totalprice\": {{updatedTotalPrice}}\r\n}"
+							"raw": ""
 						},
 						"url": "https://restful-booker.herokuapp.com/booking/{{bookingId2}}"
 					},
