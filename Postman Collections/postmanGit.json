@@ -1202,8 +1202,6 @@
 							"script": {
 								"id": "95c4e383-618e-4480-a196-018ab28ffdfd",
 								"exec": [
-									"const response = JSON.parse(responseBody);\r",
-									"\r",
 									"//Check Status\r",
 									"pm.test(\"Status code is 201\", function () {\r",
 									"    pm.response.to.have.status(201);\r",
