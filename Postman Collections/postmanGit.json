@@ -1292,7 +1292,7 @@
 				}
 			],
 			"id": "b845b1c9-b83a-4c93-ace5-8aee6715faae",
-			"description": "The test verifies if it possible to delete booking using the DELETEmethod.  \nThe first request is generating authorization token.  \nA second request is getting booking that's going to be updated and it is setting the new total price depending on what is listed in \"additional need\" field.  \nOn the third request data is being updated - additional need price is being added to total price.  \nLast request is verifying that the update was successful.",
+			"description": "Test verifies if it possible to delete booking using the DELETE method.  \nThe first request is generating authorization token.  \nA second request is getting booking that's going to be deleted.  \nAt the third request booking data is being deleted.  \nLast request is verifying that booking have been successfully deleted.",
 			"event": [
 				{
 					"listen": "prerequest",
