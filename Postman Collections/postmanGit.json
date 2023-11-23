@@ -219,7 +219,8 @@
 					"response": []
 				}
 			],
-			"id": "20d666bc-dc05-4c7b-8d68-934f5712f169"
+			"id": "20d666bc-dc05-4c7b-8d68-934f5712f169",
+			"description": "Test verifies if it is possible to GET list of all Booking Ids and GET details of one random booking."
 		},
 		{
 			"name": "TC002 - Create New Booking",
