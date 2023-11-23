@@ -220,7 +220,7 @@
 				}
 			],
 			"id": "20d666bc-dc05-4c7b-8d68-934f5712f169",
-			"description": "Test verifies if it is possible to GET list of all Booking Ids and GET details of one random booking."
+			"description": "Test verifies if it is possible to GET list of all Booking Ids and GET details of one random booking.\n\nThe first request contains assertions to check if the api response is correctly constructed and provides correct info.\n\nAfter that it chooses randomly one booking id from all listed bookings."
 		},
 		{
 			"name": "TC002 - Create New Booking",
