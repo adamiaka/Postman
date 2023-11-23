@@ -448,6 +448,7 @@
 				}
 			],
 			"id": "9e5ec018-29d8-4c69-88d0-b72b3e913608",
+			"description": "Test verifies if it is possible to create new booking.\n\nFirst request",
 			"event": [
 				{
 					"listen": "prerequest",
