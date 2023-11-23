@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "9fdd61b7-af4d-4cd1-a843-c3bc6dc11f18",
 		"name": "restful-booker",
-		"description": "[https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-CreateBooking](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-CreateBooking)",
+		"description": "A sample collection to demonstrate Postman's capabilities in test data generation, creation of test cases and test assertions.  \nThe collection uses the free API: [https://restful-booker.herokuapp.com/apidoc/index.html](https://restful-booker.herokuapp.com/apidoc/index.html)  \nPlease check the description of each TC to find out what is going on in each test.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
