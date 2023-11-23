@@ -1053,7 +1053,7 @@
 				}
 			],
 			"id": "dc57f725-085a-40a5-8d31-613afbae96e6",
-			"description": "Test verifies if it possible to update booking using the PATCH method.  \nThe first request is generating authorization token.  \nA second request is getting booking thats going to be updated and it is modifying total price depending on what is listed in \"additional need\" field.  \nOn the third request data is being updated - deposit value is being changed to the opposite.  \nLast request is verifying that the update was successful.",
+			"description": "The test verifies if it possible to update booking using the PATCH method.  \nThe first request is generating authorization token.  \nA second request is getting booking that's going to be updated and it is setting the new total price depending on what is listed in \"additional need\" field.  \nOn the third request data is being updated - additional need price is being added to total price.  \nLast request is verifying that the update was successful.",
 			"event": [
 				{
 					"listen": "prerequest",
