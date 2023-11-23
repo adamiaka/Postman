@@ -739,7 +739,7 @@
 				}
 			],
 			"id": "378cf436-61ea-45f9-9892-cef81962fe8d",
-			"description": "Test verifies if it possible to update booking using PUT method.\n\nFirst request is generating authorization token.\n\nSecond request is getting whole response (whole booking info) and saving it into variable.\n\nIn third request data is being changed,",
+			"description": "Test verifies if it possible to update booking using the PUT method.  \nThe first request is generating authorization token.  \nA second request is getting whole response (whole booking info) and saving it into a variable.  \nOn the third request data is being updated - deposit value is being changed to the opposite.  \nLast request is verifying that the update was successful.",
 			"event": [
 				{
 					"listen": "prerequest",
