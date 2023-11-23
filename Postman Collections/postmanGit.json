@@ -1078,7 +1078,7 @@
 			]
 		},
 		{
-			"name": "TC004 - Delete Booking",
+			"name": "TC005 - Delete Booking",
 			"item": [
 				{
 					"name": "1. Auth",
